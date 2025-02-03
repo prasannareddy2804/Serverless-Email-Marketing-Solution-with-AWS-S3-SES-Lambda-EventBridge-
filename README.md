@@ -17,8 +17,6 @@ This ensures a **scalable and cost-effective** email marketing solution.
 - ✅ **Basic AWS knowledge**  
 - ✅ **A text editor** to edit HTML email templates (or use `email.html` provided in the repo)  
 
-## **🛠 Architecture Diagram**  
-*(Insert architecture diagram here if available.)*  
 
 ## **📌 High-Level Requirements**  
 1. A storage solution for **email templates and contact lists** (**S3**).  
