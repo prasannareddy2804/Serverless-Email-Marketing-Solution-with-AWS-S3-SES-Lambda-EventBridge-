@@ -32,7 +32,8 @@ This ensures a **scalable and cost-effective** email marketing solution.
 ### **Step 1: AWS S3 Bucket Setup**  
 1. Open the **Amazon S3** console.  
 2. Click **Create Bucket**.  
-3. Name the bucket (e.g., `email-marketing-project`) and keep the default settings.  
+3. Name the bucket (e.g., `email-marketing-project`) and keep the default settings.
+    
 
 ### **Step 2: Upload Contacts and Email Template**  
 1. Upload **`contacts.csv`** and **`email.html`** to the created S3 bucket.  
@@ -96,6 +97,6 @@ Best regards,
 ---
 
 🚀 **Built with AWS for seamless and automated email marketing!**  
-
+- **Project Documentation:** [Documentation]([https://docs.aws.amazon.com/lambda/](https://docs.google.com/document/d/1DSk411h-bRjQRrtkzHIO5YbMaXquahoU/edit?usp=drive_link&ouid=115890051750716313332&rtpof=true&sd=true)) 
 ---
 
