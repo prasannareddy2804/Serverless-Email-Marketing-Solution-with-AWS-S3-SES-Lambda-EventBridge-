@@ -97,6 +97,8 @@ Best regards,
 ---
 
 🚀 **Built with AWS for seamless and automated email marketing!**  
-- **Project Documentation:** [Documentation]([https://docs.aws.amazon.com/lambda/](https://docs.google.com/document/d/1DSk411h-bRjQRrtkzHIO5YbMaXquahoU/edit?usp=drive_link&ouid=115890051750716313332&rtpof=true&sd=true)) 
+## 📑 Project Documentation
+[**Google Drive Link for Documenation**](https://docs.google.com/document/d/1DSk411h-bRjQRrtkzHIO5YbMaXquahoU/edit?usp=drive_link&ouid=115890051750716313332&rtpof=true&sd=true)
+
 ---
 
